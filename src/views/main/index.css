@@ -1,0 +1,17 @@
+.right-info {
+    display: flex;
+}
+
+
+
+.right-info .right-info-child-last {
+    padding-right: 200px;
+}
+
+.right-info .right-info-box {
+    display: block;
+    width: 29px;
+    height: 20px;
+    line-height: 20px;
+    cursor: pointer;
+}
